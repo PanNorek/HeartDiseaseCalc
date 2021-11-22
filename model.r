@@ -1,6 +1,6 @@
 # g = getwd()
 # setwd(paste0(g,"//heartfailure"))
-
+#setwd("C:\\Users\\Admin\\OneDrive\\Pulpit\\coding\\R\\heartfailure\\HeartFailureApp")
 # read our data
 df = read.csv("heart.csv")
 
